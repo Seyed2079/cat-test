@@ -1,5 +1,5 @@
 {
-  "name": "hello-cat-2",
+  "name": "hello-cat-input",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
